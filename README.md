@@ -1,0 +1,2 @@
+# skypebot
+skype-bot
